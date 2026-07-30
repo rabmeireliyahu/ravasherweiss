@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרב אשר וייס - Rabbi Asher Weiss</title>
-    <description>שיעורים של הרב אשר וייס שליט"א - הצטרף לקבוצת הוואטסאפ: https://chat.whatsapp.com/IA8a6GHhJNjIKxXW3ysQOs</description>
+    <description>שיעורי הלכה, שו"ת וסוגיות הש"ס מפי הגאון הרב אשר וייס שליט"א, בעל "מנחת אשר". פרשת שבוע, מועדים, הלכה רפואית ושאלות מעשיות בזמננו - אוצר התורה.</description>
+    <itunes:summary>שיעורי הלכה, שו"ת וסוגיות הש"ס מפי הגאון הרב אשר וייס שליט"א, בעל "מנחת אשר". פרשת שבוע, מועדים, הלכה רפואית ושאלות מעשיות בזמננו - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/ravasherweiss</link>
     <language>he</language>
     <itunes:author>הרב אשר וייס שליט"א</itunes:author>
