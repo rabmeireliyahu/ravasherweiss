@@ -3965,5 +3965,14 @@
       <itunes:duration>00:10:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>The Beginning No One Talks About ｜ Rav Asher Weiss on Parshas Lech Lecha</title>
+      <description>The Beginning No One Talks About ｜ Rav Asher Weiss on Parshas Lech Lecha</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-asher-weiss-shiurim/The%20Beginning%20No%20One%20Talks%20About%20%EF%BD%9C%20Rav%20Asher%20Weiss%20on%20Parshas%20Lech%20Lecha.mp3" length="1590885" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Beginning No One Talks About ｜ Rav Asher Weiss on Parshas Lech Lecha.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 05:06:43 -0000</pubDate>
+      <itunes:duration>00:02:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
