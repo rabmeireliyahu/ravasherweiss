@@ -4280,5 +4280,14 @@
       <itunes:duration>00:37:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Hilchos Tzedaka Part 1 ｜ Shiur by Rav Asher Weiss Shlit＂a</title>
+      <description>Hilchos Tzedaka Part 1 ｜ Shiur by Rav Asher Weiss Shlit＂a</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-asher-weiss-shiurim/Hilchos%20Tzedaka%20Part%201%20%EF%BD%9C%20Shiur%20by%20Rav%20Asher%20Weiss%20Shlit%EF%BC%82a.mp3" length="26049044" type="audio/mpeg"/>
+      <guid isPermaLink="false">Hilchos Tzedaka Part 1 ｜ Shiur by Rav Asher Weiss Shlit＂a.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 19:37:16 -0000</pubDate>
+      <itunes:duration>00:48:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
